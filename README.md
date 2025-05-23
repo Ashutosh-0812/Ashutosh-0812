@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Singh</h1>
-<h3 align="center">🚀 A passionate Full-Stack Developer & Tech Enthusiast from India</h3>
+<h3 align="center">🚀 Passionate about building AI-powered and real-time web applications, with a strong drive to solve real-world problems and contribute meaningfully to society.</h3>
 
 <p align="center">
   <a href="https://portfolio-website-lime-alpha.vercel.app/" target="_blank">
