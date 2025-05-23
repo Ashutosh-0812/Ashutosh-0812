@@ -5,9 +5,7 @@
   <a href="https://portfolio-website-lime-alpha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Ashutosh-0812" target="_blank">
-    <img src="https://img.shields.io/github/followers/Ashutosh-0812?label=GitHub&style=for-the-badge" />
-  </a>
+  
   <a href="https://linkedin.com/in/ashutoshsingh0812" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
