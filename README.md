@@ -15,10 +15,12 @@
 
 ## 🚀 About Me
 
-🎓 B.E. in Information Technology at **UIET, Panjab University** (2022–2026)  
-💻 Frontend Trainee at **Nucleus Software**  
-⚡ Tech Stack: **React.js | Next.js | TypeScript | Firebase | MongoDB**  
-🎯 Passionate about building AI-powered and real-time web applications  
+🎓 I’m currently pursuing a B.E. in Information Technology at **UIET, Panjab University** (2022–2026).  
+🧠 I love combining **AI and modern web technologies** to build impactful applications.  
+📊 I am actively practicing **Data Structures and Algorithms (DSA)** to strengthen my problem-solving and coding skills for tech interviews.  
+👨‍💻 I have built scalable projects like **FinanceKaro 2.0** and **Talkify** using stacks like React, Next.js, Firebase, and Node.js.   
+🤝 Actively seeking opportunities to collaborate on open-source and social impact projects.
+
 
 ---
 
@@ -33,6 +35,7 @@
 ### Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
