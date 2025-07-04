@@ -5,7 +5,6 @@
   <a href="https://portfolio-website-lime-alpha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  
   <a href="https://linkedin.com/in/ashutoshsingh0812" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -18,9 +17,8 @@
 🎓 I’m currently pursuing a B.E. in Information Technology at **UIET, Panjab University** (2022–2026).  
 🧠 I love combining **AI and modern web technologies** to build impactful applications.  
 📊 I am actively practicing **Data Structures and Algorithms (DSA)** to strengthen my problem-solving and coding skills for tech interviews.  
-👨‍💻 I have built scalable projects like **FinanceKaro 2.0** and **Talkify** using stacks like React, Next.js, Firebase, and Node.js.   
+👨‍💻 I have built scalable projects like **FinanceKaro 2.0**, **Talkify**, and **Garbage Classifier** using React, Next.js, Firebase, TensorFlow, etc.  
 🤝 Actively seeking opportunities to collaborate on open-source and social impact projects.
-
 
 ---
 
@@ -31,6 +29,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -39,7 +38,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-000000?style=flat&logo=gradio&logoColor=white)
 
 ---
 
@@ -55,9 +56,18 @@
 🔹 Persistent chats, image sharing, responsive UI  
 🔹 Achieved sub-200ms latency for real-time communication  
 
+### 🧠 [Garbage Classifier](https://huggingface.co/spaces/ashu0812/Garbage-Classification) — *AI Waste Type Detector*  
+> **Tech:** TensorFlow, EfficientNetV2, Gradio, Python  
+🔹 Built a deep learning model to classify waste into categories like plastic, metal, and paper  
+🔹 Deployed on Hugging Face Spaces with an intuitive real-time Gradio interface
+
 ---
 
 ## 💼 Experience
+
+**AI Intern** — *Edunet Foundation (AICTE + Shell)* (Jun 2025 – Present)  
+• Working on deep learning-based sustainability project  
+• Mentored by industry experts under Green Skills initiative  
 
 **Frontend Trainee** — *Nucleus Software* (Jun 2024 – Jul 2024)  
 • Built modular React components for internal dashboards  
